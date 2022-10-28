@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Download market data from Yahoo! Finance's API
+This gem is inspired by yfinance python pip package.
+https://github.com/ranaroussi/yfinance
 
 ## Development
 
@@ -32,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/yfinancerb.
+Bug reports and pull requests are welcome on GitHub at https://github.com/kazto/yfinancerb.
 
 ## License
 
